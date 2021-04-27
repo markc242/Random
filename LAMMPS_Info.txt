@@ -2,9 +2,6 @@ LAMMPS (10 Mar 2021) mark
 OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:94)
   using 1 OpenMP thread(s) per MPI task
 
-log 			Info.txt append
-units			si
-
 atom_style		bond
 boundary		p p p
 
